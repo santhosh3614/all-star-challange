@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_bule">#ff3980d8</color>
+    <color name="bg_solid">#ff71a4e3</color>
+    <color name="bg_stoke">#ffa6c5ed</color>
+    <color name="line_separator">#ffcccccc</color>
+    <color name="inner_line_seperator">#ffb4b4b4</color>
+    <color name="setting_expand_bg">#ffededed</color>
+    <color name="setting_expand_selected">#ffa2c3ed</color>
+    <color name="d_gray">#88DDDDDD</color>
+    <color name="light_red">#ffff0000</color>
+</resources>
